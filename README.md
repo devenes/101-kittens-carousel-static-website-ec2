@@ -32,7 +32,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
     - Kittens Carousel Application Website URL should be given as output by Cloudformation Service, after the stack created.
 
-## Expected Outcome
+## Outcome
 
 ![Project 101 : Kittens Carousel Application Snapshot](./project-101-snapshot.png)
 
@@ -53,20 +53,6 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 - AWS Cloudformation Template Design
 
 - Git & Github for Version Control System
-
-### At the end of the project, students will be able to;
-
-- install Apache Web Server on Amazon Linux 2.
-
-- improve bash scripting skills using `user data` section in Cloudformation to install and setup web application on EC2 Instance.
-
-- configure AWS EC2 Instance and Security Groups.
-
-- configure Cloudformation template to use AWS Resources.
-
-- use AWS Cloudformation Service to launch stacks.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Resources
 
