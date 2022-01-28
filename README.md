@@ -32,9 +32,15 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
     - Kittens Carousel Application Website URL should be given as output by Cloudformation Service, after the stack created.
 
+<<<<<<< HEAD
 ## Expected Outcome
 
 ![Kittens Carousel Application Snapshot](./project-101-snapshot.png)
+=======
+## Outcome
+
+![Project 101 : Kittens Carousel Application Snapshot](./project-101-snapshot.png)
+>>>>>>> 9315e48a60a643f9105f1f70ede7041f4e982238
 
 ### At the end of the project, following topics are to be covered;
 
